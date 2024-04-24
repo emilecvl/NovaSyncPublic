@@ -1,3 +1,7 @@
+Voici la mise à jour du README :
+
+---
+
 # /NovaSYNC
 
 ## Description
@@ -34,11 +38,19 @@
 ## Installation
 Pour installer le bot, veuillez demander un ticket sur notre serveur de support [ici](https://discord.gg/hUj48XPTJ4). Notre équipe de support offre une installation complète et un suivi personnalisé avec les utilisateurs du bot.
 
-## Contribution
-Si vous souhaitez contribuer au développement du bot, veuillez rejoindre notre serveur Discord [ici](https://discord.gg/hUj48XPTJ4).
-
 ## Support
 Si vous rencontrez des problèmes ou avez besoin d'aide avec le bot, rejoignez notre serveur de support [ici](https://discord.gg/exemple) et demandez de l'aide dans le canal de support.
 
+## Créateurs et Développeurs
+Ce projet a été créé et développé par Emile.cvl et Kawamz.
+
+## Remerciements
+Un grand merci à Noah Fournier pour son aide précieuse dans le projet.
+Si vous souhaitez contribuer au développement du bot, veuillez rejoindre notre serveur Discord [ici](https://discord.gg/hUj48XPTJ4).
+
 ## Licence
 Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
+
+Cela devrait inclure toutes les modifications que vous avez demandées. Dites-moi si vous avez besoin de quelque chose d'autre !
