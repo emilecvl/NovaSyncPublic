@@ -36,7 +36,8 @@ Voici la mise à jour du README :
    - Permet d'envoyer un message à un joueur spécifique sur le serveur Nova Life en utilisant son ID Steam.
 
 ## Installation
-Pour installer le bot, veuillez demander un ticket sur notre serveur de support [ici](https://discord.gg/hUj48XPTJ4). Notre équipe de support offre une installation complète et un suivi personnalisé avec les utilisateurs du bot.
+Notez que le bot est toujours en développement et des mises à jour fréquentes sont à prévoir.
+Pour toute demande, veuillez faire un ticket sur notre serveur de support [ici](https://discord.gg/hUj48XPTJ4). Notre équipe de support offrira une installation complète et un suivi personnalisé avec les utilisateurs du bot lors de sa sortie officielle (aucune date prévue)
 
 ## Support
 Si vous rencontrez des problèmes ou avez besoin d'aide avec le bot, rejoignez notre serveur de support [ici](https://discord.gg/exemple) et demandez de l'aide dans le canal de support.
@@ -50,7 +51,3 @@ Si vous souhaitez contribuer au développement du bot, veuillez rejoindre notre 
 
 ## Licence
 Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
-Cela devrait inclure toutes les modifications que vous avez demandées. Dites-moi si vous avez besoin de quelque chose d'autre !
