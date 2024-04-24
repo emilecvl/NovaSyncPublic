@@ -40,7 +40,7 @@ Notez que le bot est toujours en développement et des mises à jour fréquentes
 Pour toute demande, veuillez faire un ticket sur notre serveur de support [ici](https://discord.gg/hUj48XPTJ4). Notre équipe de support offrira une installation complète et un suivi personnalisé avec les utilisateurs du bot lors de sa sortie officielle (aucune date prévue)
 
 ## Support
-Si vous rencontrez des problèmes ou avez besoin d'aide avec le bot, rejoignez notre serveur de support [ici](https://discord.gg/exemple) et demandez de l'aide dans le canal de support.
+Si vous rencontrez des problèmes ou avez besoin d'aide avec le bot, rejoignez notre serveur de support [ici](https://discord.gg/hUj48XPTJ4) et demandez de l'aide dans le canal de support.
 
 ## Créateurs et Développeurs
 Ce projet a été créé et développé par Emile.cvl et Kawamz.
